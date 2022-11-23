@@ -41,11 +41,11 @@
 <a href="https://www.linkedin.com/in/justyn-subrai-856584224/">LinkedIn: Justyn Subrai </a><br>
 <a href="https://github.com/JustynSubrai">Github: JustynSubrai</a><br>
 
-<a href="">LinkedIn: Carter Endsley </a><br>
-<a href="https://www.linkedin.com/in/carterendsley/">Github: Carter Endsley</a><br>
+<a href="https://www.linkedin.com/in/carterendsley/">LinkedIn: Carter Endsley </a><br>
+<a href="https://github.com/carterqe">Github: Carter Endsley</a><br>
 
-<a href="">LinkedIn: Justin Benz </a><br>
-<a href="https://www.linkedin.com/in/justinbenz/">Github: Justin Benz</a><br>
+<a href="https://www.linkedin.com/in/justinbenz/">LinkedIn: Justin Benz </a><br>
+<a href="https://github.com/JustinBenz">Github: Justin Benz</a><br>
 
 
 [Return to top](#tsmithy)
